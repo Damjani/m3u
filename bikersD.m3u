@@ -47,7 +47,7 @@ http://cdn.iptv.amis.net/LIVE/HRT3/stream_wifi_840k.m3u8
 http://cdn.iptv.amis.net/ts/RTS/stream_wifi_1200k.m3u8
 
 #EXTINF:-1,ORF1
-http://cdn.iptv.amis.net/ts/ORF1/stream_wifi_1200k.m3u8|User-Agent="AppleCoreMedia
+http://cdn.iptv.amis.net/ts/ORF1/stream_wifi_1200k.m3u8
 
 
 
