@@ -1,225 +1,189 @@
-#EXTM3U
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww14080\viewh16500\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
 
-
-#EXTINF:0,Sport TV 1 (SLO)
-http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8
- 
-#EXTINF:0,Sport TV 2 (SLO)
-http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8
-
-#EXTINF:-1,Sport Klub 1 SLO
-http://cdn.iptv.amis.net/ts/SK1/stream_wifi_1200k.m3u8
-
-#EXTINF:-1,Sport Klub 2 SLO
-http://cdn.iptv.amis.net/ts/SK2/stream_wifi_1200k.m3u8
-
-#EXTINF:-1,Sport Klub 3 SLO
-http://cdn.iptv.amis.net/ts/SK3/stream_wifi_1200k.m3u8
-
-#EXTINF:0,Kanal A
-http://cdn.iptv.amis.net/ts/AKanal/stream_wifi_1200k.m3u8
-
-#EXTINF:0,POP TV
-http://cdn.iptv.amis.net/ts/PopTV/stream_wifi_1200k.m3u8
- 
-#EXTINF:0,Planet TV
-http://cdn.iptv.amis.net/ts/PlanetTV/stream_wifi_1200k.m3u8
-
-#EXTINF:0,SLO 1
-http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_1200k.m3u8
- 
-#EXTINF:0,SLO 2
-http://cdn.iptv.amis.net/ts/Slo2/stream_wifi_1200k.m3u8
- 
-#EXTINF:0,SLO 3
-http://cdn.iptv.amis.net/ts/Slo3/stream_wifi_1200k.m3u8
- 
-#EXTINF:0,HRT 1 
-http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_840k.m3u8
-
-#EXTINF:0,HRT 2
-http://cdn.iptv.amis.net/LIVE/HRT2/stream_wifi_840k.m3u8
-
-#EXTINF:0,HRT 3
-http://cdn.iptv.amis.net/LIVE/HRT3/stream_wifi_840k.m3u8
-
-#EXTINF:0,RTS
-http://cdn.iptv.amis.net/ts/RTS/stream_wifi_1200k.m3u8
-
-#EXTINF:0,ORF1
-http://cdn.iptv.amis.net/ts/ORF1/stream_wifi_1200k.m3u8
-
-
-
-#EXTINF:0,Sportska TV
-http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
-
-#EXTINF:0,SPORTSKA TV
-http://cdn.iptv.amis.net/ts/SPORTSKATELEVIZIJA/stream_wifi_1200k.m3u8
-
-#EXTINF:0,CANAL MOTOR
-http://03.sf.bg.unistream.tv/test/canalmotor-hls/pl.m3u8?time=1462400376714
-
-#EXTINF:0,OLYMPIC CHANNEL
-http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
-
-#EXTINF:0,Sport TV 1 (SLO)
-http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8
- 
-#EXTINF:-1,sport 1 (DSF)
-http://cdn.iptv.amis.net/ts/DSF/stream_wifi_1200k.m3u8
-
-#EXTINF:-1,px sport
-https://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master.m3u8
-
-#EXTINF:-1,tjc sport
-http://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
-
-#EXTINF:-1, TV Partizan
-http://212.200.102.3:5000/udp/239.99.99.99:23999
-
-#EXTINF:-1, Sports Russia
-http://31.41.63.88:8080/udp/239.195.32.3:1234
-
-#EXTINF:-1,LA LIGA BeIN SPORT
-http://46.105.233.106:8085/lighd
-
-#EXTINF:0, BT Sport 1
-http://185.53.163.205:2700
-
-#EXTINF:0, BT Sport 2
-http://185.53.163.205:2506
-
-#EXTINF:0, BT Sport 3
-http://185.53.163.205:2701
-
-#EXTINF:0, BT Sport ESPN
-http://185.53.163.205:2507
-
-#EXTINF:-1,sport 1 (ceska)
-http://108.168.175.182:5000/live/103/103.m3u8
-
-#EXTINF:-1,sport 2 (ceska)
-http://69.39.239.166:5000/live/390/390.m3u8
-
-#EXTINF:-1,nova sport 1 hd
-http://174.36.220.217:5000/live/173/173.m3u8
-
-#EXTINF:-1,nova sport 1 hd
-http://5.63.149.252:5000/live/117/117.m3u8
-
-#EXTINF:-1, Eurosport 1 hd
-http://65.254.55.10:4000/live/197/197.m3u8
-
-#EXTINF:-1, Eurosport 1
-http://185.53.163.216:33111
-
-#EXTINF:-1, Eurosport 2
-http://185.53.163.216:3104
-
-#EXTINF:-1, Eurosport 1
-http://185.53.163.216:33111
-
-#EXTINF:-1, Eurosport 2
-http://185.53.163.216:3104
-
-#EXTINF:-1, Eurosport 1
-http://174.36.220.217:5000/live/197/197.m3u8
-
-#EXTINF:-1,EUROSPORT 2 FULL HD(dual audio)
-http://195.206.253.157:8001/eurosport2hd
-
-#EXTINF:0,tring sport 1
-http://5.135.92.130:4462/out/u/399_2.m3u8
-
-#EXTINF:0,tring sport 2
-http://5.135.92.130:4462/out/u/404_2.m3u8
-
-#EXTINF:0,tring sport 3
-http://5.135.92.130:5749/out/u/27_6.m3u8
-
-#EXTINF:0,tring sport 4
-http://5.135.92.130:5749/out/u/31_6.m3u8
-
-#EXTINF:-1,BeIN SPORTS 24 TURKEY
-http://91.121.58.28:6060
-
-#EXTINF:-1,MostVideo HD 
-http://wow.stib.com.ua:1935/tv/ch1/playlist_b125000.m3u8
-
-#EXTINF:-1,SUPERSPORTS
-http://46.105.161.243:8085/lighd
-
-#EXTINF:-1,alpha 1 sport
-http://109.236.91.150:8080/A1Sport/index.m3u8
-
-#EXTINF:-1,TRT SPOR
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
-
-#EXTINF:-1,FR :BFM SPORT
-http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-1.m3u8
-
-#EXTINF:0,REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:0,NBC GOLF 1080p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
- 
-#EXTINF:-1, NBC GOLF 720p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:0,PAC-12 Net. (Los Angeles) 720P
-http://xrxs.net/video/live-p12losa-2328.m3u8
- 
-#EXTINF:0,PAC-12 Net. (Washington) 720P
-http://xrxs.net/video/live-p12wash-2328.m3u8
- 
-#EXTINF:0,PAC-12 Net. (Arizona) 720P
-http://xrxs.net/video/live-p12ariz-2328.m3u8
- 
-#EXTINF:0,PAC National 720P
-http://xrxs.net/video/live-p12netw-2328.m3u8
- 
-#EXTINF:0,PAC-12 Net. (Bay Area) 720P
-http://xrxs.net/video/live-p12baya-2328.m3u8
- 
-#EXTINF:0,PAC-12 Net. (Oregon) 720P
-http://xrxs.net/video/live-p12oreg-2328.m3u8
-
-
-
-#EXTINF:0,National Geographic (slo)
-http://cdn.iptv.amis.net/ts/NatGeo/stream_wifi_1200k.m3u8
- 
-#EXTINF:0,Nat Geo Wild
-http://cdn.iptv.amis.net/LIVE/NGCWildCRO/stream_wifi_1200k.m3u8
- 
-#EXTINF:0,Nat Geo Wild (slo)
-http://cdn.iptv.amis.net/ts/NatGeoW/stream_wifi_1200k.m3u8
-
-#EXTINF:0,DISCOVERY (slo)
-http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8
- 
-#EXTINF:0,Animal Planet (SLO)
-http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8
-
-#EXTINF:0,Travel Channel
-http://cdn.iptv.amis.net/LIVE/CROTRAVEL/stream_wifi_1200k.m3u8
-
-#EXTINF:0,Travel Channel (slo) 
-http://cdn.iptv.amis.net/ts/Travel/stream_wifi_1200k.m3u8
-
-#EXTINF:0,History Channel
-http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8
- 
-#EXTINF:0,Viasat History
-http://cdn.iptv.amis.net/LIVE/CROHISTORY/stream_wifi_1200k.m3u8
- 
-#EXTINF:0,Viasat History (slo)
-http://cdn.iptv.amis.net/ts/History/stream_wifi_1200k.m3u8
-
-#EXTINF:0,Viasat Explorer
-http://cdn.iptv.amis.net/LIVE/CROEXPLORER/stream_wifi_1200k.m3u8
-
-#EXTINF:0,24Kitchen
-http://cdn.iptv.amis.net/LIVE/CRODOQ/stream_wifi_1200k.m3u8
+\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
+#EXTINF:0,Sport TV 1 (SLO)\
+http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8\
+ \
+#EXTINF:0,Sport TV 2 (SLO)\
+http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8\
+\
+#EXTINF:-1,Sport Klub 1 SLO\
+http://cdn.iptv.amis.net/ts/SK1/stream_wifi_1200k.m3u8\
+\
+#EXTINF:-1,Sport Klub 2 SLO\
+http://cdn.iptv.amis.net/ts/SK2/stream_wifi_1200k.m3u8\
+\
+#EXTINF:-1,Sport Klub 3 SLO\
+http://cdn.iptv.amis.net/ts/SK3/stream_wifi_1200k.m3u8\
+\
+#EXTINF:0,Kanal A\
+http://cdn.iptv.amis.net/ts/AKanal/stream_wifi_1200k.m3u8\
+\
+#EXTINF:0,POP TV\
+http://cdn.iptv.amis.net/ts/PopTV/stream_wifi_1200k.m3u8\
+ \
+#EXTINF:0,Planet TV\
+http://cdn.iptv.amis.net/ts/PlanetTV/stream_wifi_1200k.m3u8\
+\
+#EXTINF:0,SLO 1\
+http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_1200k.m3u8\
+ \
+#EXTINF:0,SLO 2\
+http://cdn.iptv.amis.net/ts/Slo2/stream_wifi_1200k.m3u8\
+ \
+#EXTINF:0,SLO 3\
+http://cdn.iptv.amis.net/ts/Slo3/stream_wifi_1200k.m3u8\
+ \
+#EXTINF:0,HRT 1 \
+http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_840k.m3u8\
+\
+#EXTINF:0,HRT 2\
+http://cdn.iptv.amis.net/LIVE/HRT2/stream_wifi_840k.m3u8\
+\
+#EXTINF:0,HRT 3\
+http://cdn.iptv.amis.net/LIVE/HRT3/stream_wifi_840k.m3u8\
+\
+#EXTINF:0,RTS\
+http://cdn.iptv.amis.net/ts/RTS/stream_wifi_1200k.m3u8\
+\
+#EXTINF:-1,ORF1 (vpn austria)\
+http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8\
+\
+#EXTINF:-1,ORF2 (vpn austria)\
+http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8\
+\
+#EXTINF:-1,ORF3 (vpn austria)\
+http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8\
+\
+#EXTINF:-1,ORF sport (vpn austria)\
+http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8\
+\
+\
+#EXTINF:0,Sportska TV\
+http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8\
+\
+#EXTINF:0,SPORTSKA TV\
+http://cdn.iptv.amis.net/ts/SPORTSKATELEVIZIJA/stream_wifi_1200k.m3u8\
+\
+#EXTINF:0,CANAL MOTOR\
+http://03.sf.bg.unistream.tv/test/canalmotor-hls/pl.m3u8?time=1462400376714\
+\
+#EXTINF:0,OLYMPIC CHANNEL\
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8\
+ \
+#EXTINF:-1,sport 1 (DSF)\
+http://cdn.iptv.amis.net/ts/DSF/stream_wifi_1200k.m3u8\
+\
+#EXTINF:-1,Sport Klub 1 SLO\
+http://cdn.iptv.amis.net/ts/SK1/stream_wifi_1200k.m3u8\
+\
+#EXTINF:-1,Sport Klub 2 SLO\
+http://cdn.iptv.amis.net/ts/SK2/stream_wifi_1200k.m3u8\
+\
+#EXTINF:-1,Sport Klub 3 SLO\
+http://cdn.iptv.amis.net/ts/SK3/stream_wifi_1200k.m3u8\
+\
+#EXTINF:-1,px sport\
+https://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master.m3u8\
+\
+#EXTINF:-1,tjc sport\
+http://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8\
+\
+#EXTINF:-1, TV Partizan\
+http://212.200.102.3:5000/udp/239.99.99.99:23999\
+\
+#EXTINF:-1,
+\f1 \uc0\u1052 \u1040 \u1058 \u1063 
+\f0 ! 
+\f1 \uc0\u1040 \u1056 \u1045 \u1053 \u1040 
+\f0  Sports Russia\
+http://31.41.63.88:8080/udp/239.195.32.3:1234\
+\
+#EXTINF:-1,LA LIGA BeIN SPORT\
+http://46.105.233.106:8085/lighd\
+\
+#EXTINF:0, BT Sport 1\
+http://185.53.163.205:2700\
+\
+#EXTINF:0, BT Sport 2\
+http://185.53.163.205:2506\
+\
+#EXTINF:0, BT Sport 3\
+http://185.53.163.205:2701\
+\
+#EXTINF:0, BT Sport ESPN\
+http://185.53.163.205:2507\
+\
+#EXTINF:-1,sport 1 (ceska)\
+http://108.168.175.182:5000/live/103/103.m3u8\
+\
+#EXTINF:-1,sport 2 (ceska)\
+http://69.39.239.166:5000/live/390/390.m3u8\
+\
+#EXTINF:-1,nova sport 1 hd\
+http://174.36.220.217:5000/live/173/173.m3u8\
+\
+#EXTINF:-1,nova sport 1 hd\
+http://5.63.149.252:5000/live/117/117.m3u8\
+\
+#EXTINF:-1, Eurosport 1 hd\
+http://65.254.55.10:4000/live/197/197.m3u8\
+\
+#EXTINF:-1, Eurosport 1\
+http://185.53.163.216:33111\
+\
+#EXTINF:-1, Eurosport 2\
+http://185.53.163.216:3104\
+\
+#EXTINF:-1, Eurosport 1\
+http://185.53.163.216:33111\
+\
+#EXTINF:-1, Eurosport 2\
+http://185.53.163.216:3104\
+\
+#EXTINF:-1, Eurosport 1\
+http://174.36.220.217:5000/live/197/197.m3u8\
+\
+#EXTINF:-1,EUROSPORT 2 FULL HD(dual audio)\
+http://195.206.253.157:8001/eurosport2hd\
+\
+#EXTINF:0,tring sport 1\
+http://5.135.92.130:4462/out/u/399_2.m3u8\
+\
+#EXTINF:0,tring sport 2\
+http://5.135.92.130:4462/out/u/404_2.m3u8\
+\
+#EXTINF:0,tring sport 3\
+http://5.135.92.130:5749/out/u/27_6.m3u8\
+\
+#EXTINF:0,tring sport 4\
+http://5.135.92.130:5749/out/u/31_6.m3u8\
+\
+#EXTINF:-1,BeIN SPORTS 24 TURKEY\
+http://91.121.58.28:6060\
+\
+#EXTINF:-1,MostVideo HD \
+http://wow.stib.com.ua:1935/tv/ch1/playlist_b125000.m3u8\
+\
+#EXTINF:-1,SUPERSPORTS\
+http://46.105.161.243:8085/lighd\
+#EXTINF:-1,alpha 1 sport\
+http://109.236.91.150:8080/A1Sport/index.m3u8\
+\
+#EXTINF:-1,TRT SPOR\
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8\
+\
+#EXTINF:-1,FR :BFM SPORT\
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-1.m3u8\
+\
+#EXTINF:0,REAL MADRID TV\
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on\
+\
+ \
+}
