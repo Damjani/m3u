@@ -13,6 +13,9 @@ http://cdn.iptv.amis.net/ts/SK2/stream_wifi_1200k.m3u8
 #EXTINF:-1,Sport Klub 3 SLO
 http://cdn.iptv.amis.net/ts/SK3/stream_wifi_1200k.m3u8
 
+#EXTINF:-1,Sport Klub 3 SRB
+http://sport7.tech/45a2fba4609e47045a8c931bb79dabcc-live.html
+
 #EXTINF:0,Kanal A
 http://cdn.iptv.amis.net/ts/AKanal/stream_wifi_1200k.m3u8
 
