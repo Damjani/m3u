@@ -1,3 +1,6 @@
+#EXTINF:-1,TEST
+http://www.stream2watch.cc/streams/176/61769
+
 #EXTINF:0,Sport TV 1 (SLO)
 http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8
  
@@ -12,9 +15,6 @@ http://cdn.iptv.amis.net/ts/SK2/stream_wifi_1200k.m3u8
 
 #EXTINF:-1,Sport Klub 3 SLO
 http://cdn.iptv.amis.net/ts/SK3/stream_wifi_1200k.m3u8
-
-#EXTINF:-1,Sport Klub 3 SRB
-http://www.stream2watch.cc/streaming-television/serbia/sport-klub-3-live-stream
 
 #EXTINF:0,Kanal A
 http://cdn.iptv.amis.net/ts/AKanal/stream_wifi_1200k.m3u8
