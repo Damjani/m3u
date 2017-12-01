@@ -48,15 +48,15 @@ http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
 http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
 #EXTINF:-1,PRO 7
 http://cdn.iptv.amis.net/ts/Pro7/stream_wifi_1200k.m3u8
-#EXTINF:0,RTL DE
+#EXTINF:0,RTL
 http://cdn.iptv.amis.net/ts/RTL/stream_wifi_1200k.m3u8
-#EXTINF:0,RTL 2 DE
+#EXTINF:0,RTL 2
 http://cdn.iptv.amis.net/ts/RTL2/stream_wifi_1200k.m3u8
-#EXTINF:0,SAT1 DE
+#EXTINF:0,SAT1
 http://cdn.iptv.amis.net/LIVE/SAT1/stream_wifi_1200k.m3u8
-#EXTINF:0,ZDF DE
+#EXTINF:0,ZDF
 http://cdn.iptv.amis.net/LIVE/ZDF/stream_wifi_1200k.m3u8
-#EXTINF:0,VOX DE
+#EXTINF:0,VOX
 http://cdn.iptv.amis.net/LIVE/VOX/stream_wifi_1200k.m3u8
 
 
@@ -64,13 +64,13 @@ http://cdn.iptv.amis.net/LIVE/VOX/stream_wifi_1200k.m3u8
 http://cdn.iptv.amis.net/LIVE/ALJAZEERA/stream_wifi_1200k.m3u8
 #EXTINF:-1,Al Jazeera ENGLISH
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-#EXTINF:0,Deutsche Welle
+#EXTINF:0,DW
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 #EXTINF:-1,DW
 http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
 #EXTINF:-1,BBC World News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:0,Russia Today UK
+#EXTINF:0,RT UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
 #EXTINF:0,CNN International
 http://cdn.iptv.amis.net/LIVE/CNN/stream_wifi_1200k.m3u8
