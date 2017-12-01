@@ -1,6 +1,6 @@
-#EXTINF:0,Sport TV 1
+#EXTINF:0,Šport TV 1
 http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8
-#EXTINF:0,Sport TV 2
+#EXTINF:0,Šport TV 2
 http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8
 #EXTINF:-1,Sport Klub 1
 http://cdn.iptv.amis.net/ts/SK1/stream_wifi_1200k.m3u8
@@ -12,7 +12,7 @@ http://cdn.iptv.amis.net/ts/SK3/stream_wifi_1200k.m3u8
 http://65.254.55.10:4000/live/197/197.m3u8
 #EXTINF:-1, Eurosport 2
 http://195.206.253.157:8001/eurosport2hd
-#EXTINF:-1,МАТЧ! АРЕНА Sports Russia
+#EXTINF:-1,МАТЧ!
 http://31.41.63.88:8080/udp/239.195.32.3:1234
 #EXTINF:0,Sportska TV
 http://cdn.iptv.amis.net/ts/SPORTSKATELEVIZIJA/stream_wifi_1200k.m3u8
@@ -20,13 +20,13 @@ http://cdn.iptv.amis.net/ts/SPORTSKATELEVIZIJA/stream_wifi_1200k.m3u8
 http://cdn.iptv.amis.net/ts/DSF/stream_wifi_1200k.m3u8
 
 
-#EXTINF:0,Kanal A
+#EXTINF:0,A Kanal
 http://cdn.iptv.amis.net/ts/AKanal/stream_wifi_1200k.m3u8
 #EXTINF:0,POP TV
 http://cdn.iptv.amis.net/ts/PopTV/stream_wifi_1200k.m3u8
 #EXTINF:0,Planet TV
 http://cdn.iptv.amis.net/ts/PlanetTV/stream_wifi_1200k.m3u8
-#EXTINF:0,SLO 1
+#EXTINF:0,RTVSLO
 http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_1200k.m3u8
 #EXTINF:0,SLO 2
 http://cdn.iptv.amis.net/ts/Slo2/stream_wifi_1200k.m3u8
