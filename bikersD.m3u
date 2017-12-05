@@ -20,17 +20,17 @@ http://cdn.iptv.amis.net/ts/SPORTSKATELEVIZIJA/stream_wifi_1200k.m3u8
 http://cdn.iptv.amis.net/ts/DSF/stream_wifi_1200k.m3u8
 
 
-#EXTINF:0,A Kanal
+#EXTINF:0,Kanal A
 http://cdn.iptv.amis.net/ts/AKanal/stream_wifi_1200k.m3u8
 #EXTINF:0,POP TV
 http://cdn.iptv.amis.net/ts/PopTV/stream_wifi_1200k.m3u8
 #EXTINF:0,Planet TV
 http://cdn.iptv.amis.net/ts/PlanetTV/stream_wifi_1200k.m3u8
-#EXTINF:0,RTVSLO
+#EXTINF:0,TV Slovenija 1 
 http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_1200k.m3u8
-#EXTINF:0,SLO 2
+#EXTINF:0,TV Slovenija 2
 http://cdn.iptv.amis.net/ts/Slo2/stream_wifi_1200k.m3u8
-#EXTINF:0,SLO 3
+#EXTINF:0,TV Slovenija 3
 http://cdn.iptv.amis.net/ts/Slo3/stream_wifi_1200k.m3u8
 #EXTINF:0,HRT 1 
 http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_840k.m3u8
