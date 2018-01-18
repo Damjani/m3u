@@ -8,16 +8,27 @@ http://cdn.iptv.amis.net/ts/SK1/stream_wifi_1200k.m3u8
 http://cdn.iptv.amis.net/ts/SK2/stream_wifi_1200k.m3u8
 #EXTINF:-1,Sport Klub 3
 http://cdn.iptv.amis.net/ts/SK3/stream_wifi_1200k.m3u8
+#EXTINF:-1,Arena Sport 1
+http://195.252.68.245:1935/KLIKTV_2/smil:pink71.mf.smil/playlist.m3u8
+#EXTINF:-1,Arena Sport 2
+http://195.252.68.245:1935/KLIKTV_2/smil:pink72.mf.smil/playlist.m3u8
+#EXTINF:-1,Arena Sport 3
+http://195.252.68.245:1935/KLIKTV_2/smil:pink73.mf.smil/playlist.m3u8
+#EXTINF:-1,Arena Sport 4
+http://195.252.68.245:1935/KLIKTV_2/smil:pink74.mf.smil/playlist.m3u8
+#EXTINF:-1,Arena Sport 5
+http://195.252.68.245:1935/KLIKTV_2/smil:pink108.mf.smil/playlist.m3u8
+#EXTINF:0,Eurosport 1
+http://cdn.iptv.amis.net/ts/EUROSPORT/stream_iptv_2000k.m3u8
 #EXTINF:-1, Eurosport 1
 http://65.254.55.10:4000/live/197/197.m3u8
 #EXTINF:-1, Eurosport 2
 http://195.206.253.157:8001/eurosport2hd
 #EXTINF:-1,МАТЧ!
 http://31.41.63.88:8080/udp/239.195.32.3:1234
-#EXTINF:0,Sportska TV
-http://cdn.iptv.amis.net/ts/SPORTSKATELEVIZIJA/stream_wifi_1200k.m3u8
-#EXTINF:-1,sport 1 (DSF)
-http://cdn.iptv.amis.net/ts/DSF/stream_wifi_1200k.m3u8
+#EXTINF:-1, Redbull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_1660.m3u8
+
 
 
 #EXTINF:0,Kanal A
@@ -34,16 +45,12 @@ http://cdn.iptv.amis.net/ts/Slo2/stream_wifi_1200k.m3u8
 http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_840k.m3u8
 #EXTINF:0,HRT 2
 http://cdn.iptv.amis.net/LIVE/HRT2/stream_wifi_840k.m3u8
-#EXTINF:0,HRT 3
-http://cdn.iptv.amis.net/LIVE/HRT3/stream_wifi_840k.m3u8
+#EXTINF:0,Rtl
+http://323569365.e.970705972.r.pluscdn.com/970705972/_definst_/rtl1.stream/playlist.m3u8
+#EXTINF:0,Rtl 2
+http://851949745.e.929594662.r.pluscdn.com/929594662/_definst_/rtl2.stream/playlist.m3u8
 #EXTINF:0,RTS
 http://cdn.iptv.amis.net/ts/RTS/stream_wifi_1200k.m3u8
-#EXTINF:-1,ORF1 (vpn austria)
-http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8
-#EXTINF:-1,ORF2 (vpn austria)
-http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
-#EXTINF:-1,ORF3 (vpn austria)
-http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
 #EXTINF:-1,PRO 7
 http://cdn.iptv.amis.net/ts/Pro7/stream_wifi_1200k.m3u8
 #EXTINF:0,RTL
@@ -56,24 +63,10 @@ http://cdn.iptv.amis.net/LIVE/SAT1/stream_wifi_1200k.m3u8
 http://cdn.iptv.amis.net/LIVE/ZDF/stream_wifi_1200k.m3u8
 #EXTINF:0,VOX
 http://cdn.iptv.amis.net/LIVE/VOX/stream_wifi_1200k.m3u8
-
-
-#EXTINF:0,Al Jazeera Balkans
-http://cdn.iptv.amis.net/LIVE/ALJAZEERA/stream_wifi_1200k.m3u8
-#EXTINF:-1,Al Jazeera ENGLISH
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-#EXTINF:0,DW
-http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
-#EXTINF:-1,DW
-http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
-#EXTINF:-1,BBC World News
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:0,RT UK
-https://secure-streams.akamaized.net/rt-uk/index.m3u8
-#EXTINF:0,CNN International
-http://cdn.iptv.amis.net/LIVE/CNN/stream_wifi_1200k.m3u8
-#EXTINF:-1,FRANCE 24 (EN) 
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,ORF 1
+http://cdn.iptv.amis.net/ts/ORF1/stream_wifi_1200k.m3u8
+#EXTINF:-1,ORF 2
+http://cdn.iptv.amis.net/ts/ORF2/stream_wifi_1200k.m3u8
 
 
 #EXTINF:0,POP Kino
@@ -106,11 +99,28 @@ http://cdn.iptv.amis.net/ts/HBOC/stream_wifi_1200k.m3u8
 http://cdn.iptv.amis.net/ts/HBO3/stream_wifi_1200k.m3u8
 #EXTINF:0,TV 1000
 http://cdn.iptv.amis.net/LIVE/TV1000/stream_wifi_1200k.m3u8
-#EXTINF:0,CBS Reality
-http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8
 #EXTINF:0,AXN
 http://cdn.iptv.amis.net/ts/AXN/stream_wifi_1200k.m3u8
 #EXTINF:0,Paramount channel
 http://91.149.172.100:80/channel?id=93&u=demo&p=demo
 #EXTINF:0,Paramount comedy
 http://91.149.172.100:80/channel?id=90&u=demo&p=demo
+
+
+#EXTINF:0,Al Jazeera Balkans
+http://cdn.iptv.amis.net/LIVE/ALJAZEERA/stream_wifi_1200k.m3u8
+#EXTINF:-1,Al Jazeera ENGLISH
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:0,DW
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:-1,DW
+http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
+#EXTINF:-1,BBC World News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0,RT UK
+https://secure-streams.akamaized.net/rt-uk/index.m3u8
+#EXTINF:0,CNN International
+http://cdn.iptv.amis.net/LIVE/CNN/stream_wifi_1200k.m3u8
+#EXTINF:-1,FRANCE 24 (EN) 
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
