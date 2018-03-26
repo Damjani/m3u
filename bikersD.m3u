@@ -26,12 +26,20 @@ http://46.40.5.99:8000/arena_3_high
 http://46.40.5.99:8000/arena_4_high
 #EXTINF:0,Eurosport 1
 http://cdn.iptv.amis.net/ts/EUROSPORT/stream_iptv_2000k.m3u8
-#EXTINF:-1, Eurosport 1
-http://65.254.55.10:4000/live/197/197.m3u8
-#EXTINF:-1, Eurosport 2
-http://195.206.253.157:8001/eurosport2hd
+#EXTINF:0, eurosport 2 bl (srp)
+http://93.123.65.3:9146/146
 #EXTINF:-1,МАТЧ!
 http://31.41.63.88:8080/udp/239.195.32.3:1234
+#EXTINF:-1,МАТЧ!
+http://37.9.0.194:1234/udp/225.225.114.2:1234 
+#EXTINF:-1,МАТЧ! АРЕНА 
+http://37.9.0.194:1234/udp/225.225.101.1:1234 
+#EXTINF:-1,МАТЧ! БОЕЦ 
+http://37.9.0.194:1234/udp/225.225.101.2:1234 
+#EXTINF:-1,МАТЧ! ИГРА 
+http://37.9.0.194:1234/udp/225.225.101.3:1234 
+#EXTINF:-1,МАТЧ! НАШ СПОРТ 
+http://37.9.0.194:1234/udp/225.225.101.4:1234 
 #EXTINF:-1, Redbull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_1660.m3u8
 
@@ -79,20 +87,12 @@ http://cdn.iptv.amis.net/ts/ORF2/stream_wifi_1200k.m3u8
 http://cdn.iptv.amis.net/ts/PopKino/stream_wifi_1200k.m3u8
 #EXTINF:0,Brio
 http://cdn.iptv.amis.net/ts/Brio/stream_wifi_1200k.m3u8
-#EXTINF:0,Universal Channel
-http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8
-#EXTINF:0,DIVA
-http://cdn.iptv.amis.net/ts/CROHALLMARK/stream_wifi_1200k.m3u8
 #EXTINF:0,Klasik TV
 http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8
 #EXTINF:0,FOX
 http://cdn.iptv.amis.net/LIVE/FOX/stream_wifi_1200k.m3u8
-#EXTINF:0,FOX Life
-http://cdn.iptv.amis.net/LIVE/FOXLIFEHRVATSKA/stream_wifi_1200k.m3u8
 #EXTINF:0,FOX MOVIES
 http://cdn.iptv.amis.net/ts/FOXMOVIES/stream_wifi_1200k.m3u8
-#EXTINF:0,FOX Crime
-http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8
 #EXTINF:0,Cinestar Tv
 http://cdn.iptv.amis.net/ts/Cinestar1/stream_iptv_2000k.m3u8
 #EXTINF:0,AMC
@@ -105,12 +105,6 @@ http://cdn.iptv.amis.net/ts/HBOC/stream_wifi_1200k.m3u8
 http://cdn.iptv.amis.net/ts/HBO3/stream_wifi_1200k.m3u8
 #EXTINF:0,TV 1000
 http://cdn.iptv.amis.net/LIVE/TV1000/stream_wifi_1200k.m3u8
-#EXTINF:0,AXN
-http://cdn.iptv.amis.net/ts/AXN/stream_wifi_1200k.m3u8
-#EXTINF:0,Paramount channel
-http://91.149.172.100:80/channel?id=93&u=demo&p=demo
-#EXTINF:0,Paramount comedy
-http://91.149.172.100:80/channel?id=90&u=demo&p=demo
 
 
 #EXTINF:0,Al Jazeera Balkans
