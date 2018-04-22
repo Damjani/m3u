@@ -8,14 +8,6 @@ http://cdn.iptv.amis.net/ts/SK1/stream_wifi_1200k.m3u8
 http://cdn.iptv.amis.net/ts/SK2/stream_wifi_1200k.m3u8
 #EXTINF:-1,Sport Klub 3
 http://cdn.iptv.amis.net/ts/SK3/stream_wifi_1200k.m3u8
-#EXTINF:-1,ARENA SPORT 1 low
-http://46.40.5.99:8000/arena_1_low
-#EXTINF:-1,ARENA SPORT 2 low
-http://46.40.5.99:8000/arena_2_low
-#EXTINF:-1,ARENA SPORT 3 low
-http://46.40.5.99:8000/arena_3_low
-#EXTINF:-1,ARENA SPORT 4 low
-http://46.40.5.99:8000/arena_4_low
 #EXTINF:0,Arena Sport 1
 http://46.40.5.99:8000/arena_1_high
 #EXTINF:0,Arena Sport 2
@@ -26,12 +18,14 @@ http://46.40.5.99:8000/arena_3_high
 http://46.40.5.99:8000/arena_4_high
 #EXTINF:0,Eurosport 1
 http://cdn.iptv.amis.net/ts/EUROSPORT/stream_iptv_2000k.m3u8
-#EXTINF:0, eurosport 2 bl (srp)
-http://93.123.65.3:9146/146
+#EXTINF:-1,Eurosport 1 SR
+http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNKZYq6KgtK15ylBMRSp7eH8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001768%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Eurosport 2 SR
+http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeN2qgZPVA%2FLOJt%2FX8uiw5zk%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001769%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,EUROSPORT 2
+http://195.206.253.157:8001/eurosport2hd
 #EXTINF:-1,МАТЧ!
 http://31.41.63.88:8080/udp/239.195.32.3:1234
-#EXTINF:-1,МАТЧ!
-http://37.9.0.194:1234/udp/225.225.114.2:1234 
 #EXTINF:-1, Redbull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_1660.m3u8
 
@@ -57,24 +51,6 @@ http://323569365.e.970705972.r.pluscdn.com/970705972/_definst_/rtl1.stream/playl
 http://851949745.e.929594662.r.pluscdn.com/929594662/_definst_/rtl2.stream/playlist.m3u8
 #EXTINF:0,RTS
 http://cdn.iptv.amis.net/ts/RTS/stream_wifi_1200k.m3u8
-#EXTINF:-1,PRO 7
-http://cdn.iptv.amis.net/ts/Pro7/stream_wifi_1200k.m3u8
-#EXTINF:0,RTL
-http://cdn.iptv.amis.net/ts/RTL/stream_wifi_1200k.m3u8
-#EXTINF:0,RTL 2
-http://cdn.iptv.amis.net/ts/RTL2/stream_wifi_1200k.m3u8
-#EXTINF:0,SAT1
-http://cdn.iptv.amis.net/LIVE/SAT1/stream_wifi_1200k.m3u8
-#EXTINF:0,ZDF
-http://cdn.iptv.amis.net/LIVE/ZDF/stream_wifi_1200k.m3u8
-#EXTINF:0,VOX
-http://cdn.iptv.amis.net/LIVE/VOX/stream_wifi_1200k.m3u8
-#EXTINF:-1,ORF 1
-http://cdn.iptv.amis.net/ts/ORF1/stream_wifi_1200k.m3u8
-#EXTINF:-1,ORF 2
-http://cdn.iptv.amis.net/ts/ORF2/stream_wifi_1200k.m3u8
-
-
 #EXTINF:0,POP Kino
 http://cdn.iptv.amis.net/ts/PopKino/stream_wifi_1200k.m3u8
 #EXTINF:0,Brio
@@ -99,6 +75,24 @@ http://cdn.iptv.amis.net/ts/HBO3/stream_wifi_1200k.m3u8
 http://cdn.iptv.amis.net/LIVE/TV1000/stream_wifi_1200k.m3u8
 
 
+#EXTINF:-1,PRO 7
+http://cdn.iptv.amis.net/ts/Pro7/stream_wifi_1200k.m3u8
+#EXTINF:0,RTL
+http://cdn.iptv.amis.net/ts/RTL/stream_wifi_1200k.m3u8
+#EXTINF:0,RTL 2
+http://cdn.iptv.amis.net/ts/RTL2/stream_wifi_1200k.m3u8
+#EXTINF:0,SAT1
+http://cdn.iptv.amis.net/LIVE/SAT1/stream_wifi_1200k.m3u8
+#EXTINF:0,ZDF
+http://cdn.iptv.amis.net/LIVE/ZDF/stream_wifi_1200k.m3u8
+#EXTINF:0,VOX
+http://cdn.iptv.amis.net/LIVE/VOX/stream_wifi_1200k.m3u8
+#EXTINF:-1,ORF 1
+http://cdn.iptv.amis.net/ts/ORF1/stream_wifi_1200k.m3u8
+#EXTINF:-1,ORF 2
+http://cdn.iptv.amis.net/ts/ORF2/stream_wifi_1200k.m3u8
+
+
 #EXTINF:0,Al Jazeera Balkans
 http://cdn.iptv.amis.net/LIVE/ALJAZEERA/stream_wifi_1200k.m3u8
 #EXTINF:-1,Al Jazeera ENGLISH
@@ -107,8 +101,6 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appl
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
 #EXTINF:-1,DW
 http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
-#EXTINF:-1,BBC World News
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:0,RT UK
 https://secure-streams.akamaized.net/rt-uk/index.m3u8
 #EXTINF:0,CNN International
