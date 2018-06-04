@@ -97,82 +97,58 @@ http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
 
 
 
-#EXTINF:0,Kanal A
-http://cdn.iptv.amis.net/ts/AKanal/stream_wifi_1200k.m3u8
+#EXTINF:0,http://s1.bossna-caffe.com:80/live?channelId=1278&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,SLO 1
+http://s1.bossna-caffe.com:80/live?channelId=1279&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,SLO 2
+http://s1.bossna-caffe.com:80/live?channelId=1280&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,SLO 3
+http://s1.bossna-caffe.com:80/live?channelId=1391&uid=32559&deviceMac=00:1A:79:04:05:07
 #EXTINF:0,POP TV
-http://cdn.iptv.amis.net/ts/PopTV/stream_wifi_1200k.m3u8
-#EXTINF:0,Planet TV
-http://cdn.iptv.amis.net/ts/PlanetTV/stream_wifi_1200k.m3u8
-#EXTINF:0,TV Slovenija 1 
-http://cdn.iptv.amis.net/ts/Slo1/stream_wifi_1200k.m3u8
-#EXTINF:0,TV Slovenija 2
-http://cdn.iptv.amis.net/ts/Slo2/stream_wifi_1200k.m3u8
-#EXTINF:0,HRT 1
-http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
-#EXTINF:0,HRT 2
-http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
-#EXTINF:0,HRT 3
-http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
-#EXTINF:0,HRT 4
-http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
-#EXTINF:0,RTL
-http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:0,RTS
-http://cdn.iptv.amis.net/ts/RTS/stream_wifi_1200k.m3u8
+http://cms.bossna-caffe.com:80/live?channelId=1281&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,Kanal A
+http://cms.bossna-caffe.com:80/live?channelId=1282&uid=32559&deviceMac=00:1A:79:04:05:07
 #EXTINF:0,POP Kino
-http://cdn.iptv.amis.net/ts/PopKino/stream_wifi_1200k.m3u8
-#EXTINF:0,Brio
-http://cdn.iptv.amis.net/ts/Brio/stream_wifi_1200k.m3u8
-#EXTINF:0,Klasik TV
-http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8
-#EXTINF:0,FOX
-http://cdn.iptv.amis.net/LIVE/FOX/stream_wifi_1200k.m3u8
-#EXTINF:0,FOX MOVIES
-http://cdn.iptv.amis.net/ts/FOXMOVIES/stream_wifi_1200k.m3u8
-#EXTINF:0,Cinestar Tv
-http://cdn.iptv.amis.net/ts/Cinestar1/stream_iptv_2000k.m3u8
-#EXTINF:0,AMC
-http://cdn.iptv.amis.net/LIVE/MGM/stream_wifi_1200k.m3u8
-#EXTINF:0,HBO
-http://cdn.iptv.amis.net/ts/HBO/stream_wifi_1200k.m3u8
-#EXTINF:0,HBO 2
-http://cdn.iptv.amis.net/ts/HBOC/stream_wifi_1200k.m3u8
-#EXTINF:0,HBO 3
-http://cdn.iptv.amis.net/ts/HBO3/stream_wifi_1200k.m3u8
-#EXTINF:0,TV 1000
-http://cdn.iptv.amis.net/LIVE/TV1000/stream_wifi_1200k.m3u8
-
-
-#EXTINF:-1,PRO 7
-http://cdn.iptv.amis.net/ts/Pro7/stream_wifi_1200k.m3u8
-#EXTINF:0,RTL
-http://cdn.iptv.amis.net/ts/RTL/stream_wifi_1200k.m3u8
-#EXTINF:0,RTL 2
-http://cdn.iptv.amis.net/ts/RTL2/stream_wifi_1200k.m3u8
-#EXTINF:0,SAT1
-http://cdn.iptv.amis.net/LIVE/SAT1/stream_wifi_1200k.m3u8
-#EXTINF:0,ZDF
-http://cdn.iptv.amis.net/LIVE/ZDF/stream_wifi_1200k.m3u8
-#EXTINF:0,VOX
-http://cdn.iptv.amis.net/LIVE/VOX/stream_wifi_1200k.m3u8
-#EXTINF:-1,ORF 1
-http://cdn.iptv.amis.net/ts/ORF1/stream_wifi_1200k.m3u8
-#EXTINF:-1,ORF 2
-http://cdn.iptv.amis.net/ts/ORF2/stream_wifi_1200k.m3u8
-
-
-#EXTINF:0,Al Jazeera Balkans
-http://cdn.iptv.amis.net/LIVE/ALJAZEERA/stream_wifi_1200k.m3u8
-#EXTINF:-1,Al Jazeera ENGLISH
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-#EXTINF:0,DW
-http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
-#EXTINF:-1,DW
-http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
-#EXTINF:0,RT UK
-https://secure-streams.akamaized.net/rt-uk/index.m3u8
-#EXTINF:0,CNN International
-http://cdn.iptv.amis.net/LIVE/CNN/stream_wifi_1200k.m3u8
-#EXTINF:-1,FRANCE 24 (EN) 
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
+http://cms.bossna-caffe.com:80/live?channelId=1283&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,POP Oto
+http://medias.bossna-caffe.com:80/live?channelId=1399&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,POP Brio
+http://medias.bossna-caffe.com:80/live?channelId=1397&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,Sport 1 SLO
+http://s1.bossna-caffe.com:80/live?channelId=1284&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,Sport 2 SLO
+http://s1.bossna-caffe.com:80/live?channelId=1285&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,Sport Klub 1 SLO
+http://s1.bossna-caffe.com:80/live?channelId=1286&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,Sport Klub 2 SLO
+http://s1.bossna-caffe.com:80/live?channelId=1287&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,Sport Klub 3 SLO
+http://s1.bossna-caffe.com:80/live?channelId=1288&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,Animal Planet SLO
+http://s1.bossna-caffe.com:80/live?channelId=1392&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,Discovery Channel SLO
+http://s1.bossna-caffe.com:80/live?channelId=1393&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,FOX Crime SLO
+http://s1.bossna-caffe.com:80/live?channelId=1394&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,FOX Life SLO
+http://s1.bossna-caffe.com:80/live?channelId=1395&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,FOX Slo
+http://s1.bossna-caffe.com:80/live?channelId=1396&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,FOX Movies SLO
+http://s1.bossna-caffe.com:80/live?channelId=1398&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,HBO 1 Slo
+http://s1.bossna-caffe.com:80/live?channelId=1400&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,HBO 2 Slo
+http://s1.bossna-caffe.com:80/live?channelId=1401&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,HBO 3 Slo
+http://s1.bossna-caffe.com:80/live?channelId=1402&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,History Channel SLO
+http://s1.bossna-caffe.com:80/live?channelId=1403&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,ID Xtra SLO
+http://s1.bossna-caffe.com:80/live?channelId=1404&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,Nat Geo Wild SLO
+http://s1.bossna-caffe.com:80/live?channelId=1405&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,Planet TV SLO
+http://s1.bossna-caffe.com:80/live?channelId=1406&uid=32559&deviceMac=00:1A:79:04:05:07
+#EXTINF:0,Viasat Explore SLO
+http://s1.bossna-caffe.com:80/live?channelId=1407&uid=32559&deviceMac=00:1A:79:04:05:07
