@@ -2,7 +2,7 @@
 http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8
 #EXTINF:0,Šport TV 2
 http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8
-#EXTINF:0,SK 1 SRP
+#EXTINF:-1,SK 1 SRP
 http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8
 #EXTINF:0,SK 2 SRP
 http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8
