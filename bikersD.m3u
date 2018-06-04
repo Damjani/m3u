@@ -26,8 +26,74 @@ http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zon
 http://195.206.253.157:8001/eurosport2hd
 #EXTINF:-1,МАТЧ!
 http://31.41.63.88:8080/udp/239.195.32.3:1234
-#EXTINF:-1, Redbull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master_1660.m3u8
+#EXTINF:-1,КХЛ
+http://51.15.42.158:8081/tv/khl/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://51.15.42.158:8081/tv/tnt/playlist.m3u8
+#EXTINF:-1,Матч!Футбол 1
+http://51.15.42.158:8081/tv/mutch-fut-1/playlist.m3u8
+#EXTINF:-1,Наш Футбол
+http://51.15.42.158:8081/tv/nash-futboll/playlist.m3u8
+#EXTINF:-1,Матч!Боец
+http://51.15.42.158:8081/tv/match-boec/playlist.m3u8
+#EXTINF:-1,Матч!Футбол 3
+http://51.15.42.158:8081/tv/match-fut-3/playlist.m3u8
+#EXTINF:-1,Eurosport 1
+http://51.15.42.158:8081/tv/eurosport-1/playlist.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://51.15.42.158:8081/tv/match-fut-2/playlist.m3u8
+#EXTINF:-1,МАТЧ ТВ https://www.iptvbin.com
+http://51.15.42.158:8081/tv/mutch-tv/chunks.m3u8
+#EXTINF:-1,МАТЧ! ИГРА
+http://51.15.42.158:8081/tv/match-igra/playlist.m3u8
+#EXTINF:-1,МАТЧ! НАШ СПОРТ
+http://51.15.42.158:8081/tv/match-nash-sport/playlist.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://51.15.42.158:8081/tv/eurosport-2/playlist.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА
+http://51.15.42.158:8081/tv/match-arena/playlist.m3u8
+#EXTINF:-1,Arena Sport 1 Sr
+http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Arena Sport 2 Sr
+http://93.87.85.10/PLTV/88888888/224/3221226662/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeHaNbgVK65Yvvvdjpa6aN2o%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001966%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Arena Sport 3 Sr
+http://93.87.85.10/PLTV/88888888/224/3221226664/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeKk0gNemuqqQ2V2Ec5VWmJs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001967%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Arena Sport 4 Sr
+http://93.87.85.10/PLTV/88888888/224/3221226661/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeK8DY8Ho%2FE6St%2BVWSvqrtEY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001968%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Arena Sport 5 Sr
+http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeBiXPAaui6g8aIyeRBou9ik%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001969%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Eurosport 1 SR
+http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNKZYq6KgtK15ylBMRSp7eH8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001768%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,Eurosport 2 SR
+http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeN2qgZPVA%2FLOJt%2FX8uiw5zk%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001769%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1,COSMOTESport2HD
+http://46.149.191.229:8000/play/a00u
+#EXTINF:-1,EDGEsport HD
+http://46.149.191.229:8000/play/a01a
+#EXTINF:-1,COSMOTESport7HD
+http://46.149.191.229:8000/play/a00z
+#EXTINF:-1,COSMOTESport5HD
+http://46.149.191.229:8000/play/a012
+#EXTINF:-1,COSMOTESportHighlightsHD
+http://46.149.191.229:8000/play/a019
+#EXTINF:-1,COSMOTESport1HD
+http://46.149.191.229:8000/play/a00s
+#EXTINF:-1,COSMOTESport6HD
+http://46.149.191.229:8000/play/a010
+#EXTINF:-1,COSMOTESport4HD
+http://46.149.191.229:8000/play/a00x
+#EXTINF:-1,EDGEsport HD
+http://46.149.191.229:8000/play/a01h
+#EXTINF:-1,COSMOTESport3HD
+http://46.149.191.229:8000/play/a00v
+#EXTINF:-1,COSMOTESport8HD
+http://46.149.191.229:8000/play/a015
+#EXTINF:-1,Motorvision Channel HD
+http://46.149.191.229:8000/play/a01e
+#EXTINF:-1,Setanta Sports
+http://91.149.172.100:80/channel?id=146&u=demo&p=demo
+#EXTINF:-1,Sportska TV
+http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
 
 
 
