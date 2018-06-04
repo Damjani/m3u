@@ -6,7 +6,7 @@ http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8
 http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8
 #EXTINF:0,SK 2 SRP
 http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8
-#EXTINF:0,SK 3 HR
+#EXTINF:-1,SK 3 HR
 http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8
 #EXTINF:0,Arena Sport 1
 http://46.40.5.99:8000/arena_1_high
