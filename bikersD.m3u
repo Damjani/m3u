@@ -26,32 +26,20 @@ http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zon
 http://195.206.253.157:8001/eurosport2hd
 #EXTINF:-1,МАТЧ!
 http://31.41.63.88:8080/udp/239.195.32.3:1234
-#EXTINF:-1,КХЛ
-http://51.15.42.158:8081/tv/khl/playlist.m3u8
-#EXTINF:-1,ТНТ
-http://51.15.42.158:8081/tv/tnt/playlist.m3u8
+#EXTINF:-1,МАТЧ ТВ 
+http://51.15.42.158:8081/tv/mutch-tv/chunks.m3u8
+#EXTINF:-1,МАТЧ! ИГРА
+http://51.15.42.158:8081/tv/match-igra/playlist.m3u8
 #EXTINF:-1,Матч!Футбол 1
 http://51.15.42.158:8081/tv/mutch-fut-1/playlist.m3u8
-#EXTINF:-1,Наш Футбол
-http://51.15.42.158:8081/tv/nash-futboll/playlist.m3u8
-#EXTINF:-1,Матч!Боец
-http://51.15.42.158:8081/tv/match-boec/playlist.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://51.15.42.158:8081/tv/match-fut-2/playlist.m3u8
 #EXTINF:-1,Матч!Футбол 3
 http://51.15.42.158:8081/tv/match-fut-3/playlist.m3u8
 #EXTINF:-1,Eurosport 1
 http://51.15.42.158:8081/tv/eurosport-1/playlist.m3u8
-#EXTINF:-1,МАТЧ! ФУТБОЛ 2
-http://51.15.42.158:8081/tv/match-fut-2/playlist.m3u8
-#EXTINF:-1,МАТЧ ТВ https://www.iptvbin.com
-http://51.15.42.158:8081/tv/mutch-tv/chunks.m3u8
-#EXTINF:-1,МАТЧ! ИГРА
-http://51.15.42.158:8081/tv/match-igra/playlist.m3u8
-#EXTINF:-1,МАТЧ! НАШ СПОРТ
-http://51.15.42.158:8081/tv/match-nash-sport/playlist.m3u8
 #EXTINF:-1,EUROSPORT 2
 http://51.15.42.158:8081/tv/eurosport-2/playlist.m3u8
-#EXTINF:-1,МАТЧ! АРЕНА
-http://51.15.42.158:8081/tv/match-arena/playlist.m3u8
 #EXTINF:-1,Arena Sport 1 Sr
 http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 #EXTINF:-1,Arena Sport 2 Sr
@@ -88,13 +76,8 @@ http://46.149.191.229:8000/play/a01h
 http://46.149.191.229:8000/play/a00v
 #EXTINF:-1,COSMOTESport8HD
 http://46.149.191.229:8000/play/a015
-#EXTINF:-1,Motorvision Channel HD
-http://46.149.191.229:8000/play/a01e
 #EXTINF:-1,Setanta Sports
 http://91.149.172.100:80/channel?id=146&u=demo&p=demo
-#EXTINF:-1,Sportska TV
-http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
-
 
 
 #EXTINF:0,http://s1.bossna-caffe.com:80/live?channelId=1278&uid=32559&deviceMac=00:1A:79:04:05:07
