@@ -18,9 +18,9 @@ http://46.40.5.99:8000/arena_3_high
 http://46.40.5.99:8000/arena_4_high
 #EXTINF:0,Eurosport 1
 http://cdn.iptv.amis.net/ts/EUROSPORT/stream_iptv_2000k.m3u8
-#EXTINF:-1,Eurosport 1 SR
+#EXTINF:-1,Eurosport 1
 http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNKZYq6KgtK15ylBMRSp7eH8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001768%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Eurosport 2 SR
+#EXTINF:-1,Eurosport 2
 http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeN2qgZPVA%2FLOJt%2FX8uiw5zk%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001769%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 #EXTINF:-1,EUROSPORT 2
 http://195.206.253.157:8001/eurosport2hd
@@ -40,15 +40,15 @@ http://51.15.42.158:8081/tv/match-fut-3/playlist.m3u8
 http://51.15.42.158:8081/tv/eurosport-1/playlist.m3u8
 #EXTINF:-1,EUROSPORT 2
 http://51.15.42.158:8081/tv/eurosport-2/playlist.m3u8
-#EXTINF:-1,Arena Sport 1 Sr
+#EXTINF:-1,Arena Sport 1
 http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Arena Sport 2 Sr
+#EXTINF:-1,Arena Sport 2
 http://93.87.85.10/PLTV/88888888/224/3221226662/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeHaNbgVK65Yvvvdjpa6aN2o%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001966%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Arena Sport 3 Sr
+#EXTINF:-1,Arena Sport 3
 http://93.87.85.10/PLTV/88888888/224/3221226664/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeKk0gNemuqqQ2V2Ec5VWmJs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001967%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Arena Sport 4 Sr
+#EXTINF:-1,Arena Sport 4
 http://93.87.85.10/PLTV/88888888/224/3221226661/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeK8DY8Ho%2FE6St%2BVWSvqrtEY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001968%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Arena Sport 5 Sr
+#EXTINF:-1,Arena Sport 5
 http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeBiXPAaui6g8aIyeRBou9ik%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001969%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
 #EXTINF:-1,Eurosport 1 SR
 http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNKZYq6KgtK15ylBMRSp7eH8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001768%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
@@ -97,41 +97,41 @@ http://cms.bossna-caffe.com:80/live?channelId=1283&uid=32559&deviceMac=00:1A:79:
 http://medias.bossna-caffe.com:80/live?channelId=1399&uid=32559&deviceMac=00:1A:79:04:05:07
 #EXTINF:0,POP Brio
 http://medias.bossna-caffe.com:80/live?channelId=1397&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Sport 1 SLO
+#EXTINF:0,Sport 1
 http://s1.bossna-caffe.com:80/live?channelId=1284&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Sport 2 SLO
+#EXTINF:0,Sport 2
 http://s1.bossna-caffe.com:80/live?channelId=1285&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Sport Klub 1 SLO
+#EXTINF:0,Sport Klub 1
 http://s1.bossna-caffe.com:80/live?channelId=1286&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Sport Klub 2 SLO
+#EXTINF:0,Sport Klub 2
 http://s1.bossna-caffe.com:80/live?channelId=1287&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Sport Klub 3 SLO
+#EXTINF:0,Sport Klub 3
 http://s1.bossna-caffe.com:80/live?channelId=1288&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Animal Planet SLO
+#EXTINF:0,Animal Planet
 http://s1.bossna-caffe.com:80/live?channelId=1392&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Discovery Channel SLO
+#EXTINF:0,Discovery Channel
 http://s1.bossna-caffe.com:80/live?channelId=1393&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,FOX Crime SLO
+#EXTINF:0,FOX Crime
 http://s1.bossna-caffe.com:80/live?channelId=1394&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,FOX Life SLO
+#EXTINF:0,FOX Life
 http://s1.bossna-caffe.com:80/live?channelId=1395&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,FOX Slo
+#EXTINF:0,FOX
 http://s1.bossna-caffe.com:80/live?channelId=1396&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,FOX Movies SLO
+#EXTINF:0,FOX Movies
 http://s1.bossna-caffe.com:80/live?channelId=1398&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,HBO 1 Slo
+#EXTINF:0,HBO 1
 http://s1.bossna-caffe.com:80/live?channelId=1400&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,HBO 2 Slo
+#EXTINF:0,HBO 2
 http://s1.bossna-caffe.com:80/live?channelId=1401&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,HBO 3 Slo
+#EXTINF:0,HBO 3
 http://s1.bossna-caffe.com:80/live?channelId=1402&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,History Channel SLO
+#EXTINF:0,History Channel
 http://s1.bossna-caffe.com:80/live?channelId=1403&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,ID Xtra SLO
+#EXTINF:0,ID Xtra
 http://s1.bossna-caffe.com:80/live?channelId=1404&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Nat Geo Wild SLO
+#EXTINF:0,Nat Geo Wild
 http://s1.bossna-caffe.com:80/live?channelId=1405&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Planet TV SLO
+#EXTINF:0,Planet TV
 http://s1.bossna-caffe.com:80/live?channelId=1406&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Viasat Explore SLO
+#EXTINF:0,Viasat Explore
 http://s1.bossna-caffe.com:80/live?channelId=1407&uid=32559&deviceMac=00:1A:79:04:05:07
