@@ -1,138 +1,167 @@
-#EXTINF:0,Šport TV 1
-http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8
-#EXTINF:0,Šport TV 2
-http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8
-#EXTINF:-1,SK 1 SRP
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g1/SK1.m3u8
-#EXTINF:0,SK 2 SRP
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g8/SK2.m3u8
-#EXTINF:-1,SK 3 HR
-http://sportsbar.pw/lba/OGViNDRkYjhiODgzNmJmMDcxOGExNGJjNzkyYjkzYjM=/g9/SportKlub3.m3u8
-#EXTINF:0,Arena Sport 1
-http://46.40.5.99:8000/arena_1_high
-#EXTINF:0,Arena Sport 2
-http://46.40.5.99:8000/arena_2_high
-#EXTINF:0,Arena Sport 3
-http://46.40.5.99:8000/arena_3_high
-#EXTINF:0,Arena Sport 4
-http://46.40.5.99:8000/arena_4_high
-#EXTINF:0,Eurosport 1
-http://cdn.iptv.amis.net/ts/EUROSPORT/stream_iptv_2000k.m3u8
-#EXTINF:-1,Eurosport 1
-http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNKZYq6KgtK15ylBMRSp7eH8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001768%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Eurosport 2
-http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeN2qgZPVA%2FLOJt%2FX8uiw5zk%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001769%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,EUROSPORT 2
-http://195.206.253.157:8001/eurosport2hd
-#EXTINF:-1,МАТЧ
-http://51.15.42.158:8081/tv/mutch-tv/chunks.m3u8
-#EXTINF:-1,МАТЧ! ИГРА
-http://51.15.42.158:8081/tv/match-igra/playlist.m3u8
-#EXTINF:-1,Матч!Футбол 1
-http://51.15.42.158:8081/tv/mutch-fut-1/playlist.m3u8
-#EXTINF:-1,МАТЧ! ФУТБОЛ 2
-http://51.15.42.158:8081/tv/match-fut-2/playlist.m3u8
-#EXTINF:-1,Матч!Футбол 3
-http://51.15.42.158:8081/tv/match-fut-3/playlist.m3u8
-#EXTINF:-1,Eurosport 1
-http://51.15.42.158:8081/tv/eurosport-1/playlist.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://51.15.42.158:8081/tv/eurosport-2/playlist.m3u8
-#EXTINF:-1,Arena Sport 1
-http://93.87.85.10/PLTV/88888888/224/3221226643/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeGKQqJOc1YO5YOmiz7KWGr0%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100002275%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Arena Sport 2
-http://93.87.85.10/PLTV/88888888/224/3221226662/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeHaNbgVK65Yvvvdjpa6aN2o%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001966%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Arena Sport 3
-http://93.87.85.10/PLTV/88888888/224/3221226664/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeKk0gNemuqqQ2V2Ec5VWmJs%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001967%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Arena Sport 4
-http://93.87.85.10/PLTV/88888888/224/3221226661/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeK8DY8Ho%2FE6St%2BVWSvqrtEY%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001968%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Arena Sport 5
-http://93.87.85.10/PLTV/88888888/224/3221226665/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeBiXPAaui6g8aIyeRBou9ik%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001969%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Eurosport 1 SR
-http://93.87.85.10/PLTV/88888888/224/3221226583/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA94tjvcqC92jhgBqS37pLbNKZYq6KgtK15ylBMRSp7eH8%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001768%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,Eurosport 2 SR
-http://93.87.85.10/PLTV/88888888/224/3221226600/index.m3u8?rrsip=93.87.85.10&zoneoffset=0&servicetype=1&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=kMPT1CuzvmP5azfOIIpcU74pEQwVtxY%2FuC5XlCvYDSyNcovykKO5JnJcY39jlvqzPX0aIzOnpikWu3zR45yt8ZrRlLf7DOt3X9zpzG7VTVVPWgPso7mD8mG87PrkwgA9vmgYnhd%2FQXVMovIFPNVfeN2qgZPVA%2FLOJt%2FX8uiw5zk%3D%3A20180117205821%3AUTC%2C667280775442361405%2C89.172.240.222%2C20180117205821%2Curn%3AHuawei%3AliveTV%3AXTV100001769%2CE1AEBA0D093C19B037E317D73D194EA6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2Cguest%2C0%2Cguest%2C%2C2%2CEND&GuardEncType=2
-#EXTINF:-1,COSMOTESport2HD
-http://46.149.191.229:8000/play/a00u
-#EXTINF:-1,EDGEsport HD
-http://46.149.191.229:8000/play/a01a
-#EXTINF:-1,COSMOTESport7HD
-http://46.149.191.229:8000/play/a00z
-#EXTINF:-1,COSMOTESport5HD
-http://46.149.191.229:8000/play/a012
-#EXTINF:-1,COSMOTESportHighlightsHD
-http://46.149.191.229:8000/play/a019
-#EXTINF:-1,COSMOTESport1HD
-http://46.149.191.229:8000/play/a00s
-#EXTINF:-1,COSMOTESport6HD
-http://46.149.191.229:8000/play/a010
-#EXTINF:-1,COSMOTESport4HD
-http://46.149.191.229:8000/play/a00x
-#EXTINF:-1,EDGEsport HD
-http://46.149.191.229:8000/play/a01h
-#EXTINF:-1,COSMOTESport3HD
-http://46.149.191.229:8000/play/a00v
-#EXTINF:-1,COSMOTESport8HD
-http://46.149.191.229:8000/play/a015
-#EXTINF:-1,Setanta Sports
-http://91.149.172.100:80/channel?id=146&u=demo&p=demo
+#EXTM3U
+#EXTINF:-1,YU: AL JAZEERA BALKAN  IPTVultra.com [1920x1088]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3428.ts
+#EXTINF:-1,YU: DM SAT  IPTVultra.com [544x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3433.ts
+#EXTINF:-1,YU: HAYAT PLUS  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3402.ts
+#EXTINF:-1,YU: HAYAT TV HD  IPTVultra.com [1280x720]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3403.ts
+#EXTINF:-1,YU: HBO 2 HD  IPTVultra.com [1280x720]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3404.ts
+#EXTINF:-1,YU: HRT 1  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3440.ts
+#EXTINF:-1,YU: HRT 2  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3439.ts
+#EXTINF:-1,YU: HRT 3  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3438.ts
+#EXTINF:-1,YU: HRT 4  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3437.ts
+#EXTINF:-1,YU: NOVA  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3434.ts
+#EXTINF:-1,YU: OBN  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3435.ts
+#EXTINF:-1,YU: PINK 1  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3426.ts
+#EXTINF:-1,YU: PINK 3  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3425.ts
+#EXTINF:-1,YU: PINK ACTION  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3405.ts
+#EXTINF:-1,YU: PINK BH  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3406.ts
+#EXTINF:-1,YU: PINK FOLK 1  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3417.ts
+#EXTINF:-1,YU: PINK FOLK 2  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3416.ts
+#EXTINF:-1,YU: PINK HORROR  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3418.ts
+#EXTINF:-1,YU: PINK MOVIES 1  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3409.ts
+#EXTINF:-1,YU: PINK MUSIC  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3410.ts
+#EXTINF:-1,YU: PINK PLUS  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3424.ts
+#EXTINF:-1,YU: PINK PREMIUM  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3411.ts
+#EXTINF:-1,YU: PINK REALITY  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3412.ts
+#EXTINF:-1,YU: PINK SERIJE  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3421.ts
+#EXTINF:-1,YU: PINK SOAP  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3422.ts
+#EXTINF:-1,YU: PINK THRILLER  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3423.ts
+#EXTINF:-1,YU: PINK WESTERN  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/3413.ts
+#EXTINF:-1,YU: B92  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2615.ts
+#EXTINF:-1,YU: HRTV 1  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2619.ts
+#EXTINF:-1,YU: OBN HD  IPTVultra.com [1280x720]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2606.ts
+#EXTINF:-1,YU: Pink  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2620.ts
+#EXTINF:-1,YU: Pink 2  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2621.ts
+#EXTINF:-1,YU: Pink Kids  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2622.ts
+#EXTINF:-1,YU: RTS 1  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2624.ts
+#EXTINF:-1,YU: SEVDAH TV  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2608.ts
+#EXTINF:-1,YU: Arena Sport 1 HD  IPTVultra.com [1280x720]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2365.ts
+#EXTINF:-1,YU: Arena Sport 2 HD  IPTVultra.com [1280x720]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2364.ts
+#EXTINF:-1,YU: Arena Sport 4 HD  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2362.ts
+#EXTINF:-1,YU: Arena Sport 5 HD  IPTVultra.com [720x576]
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/2361.ts
+#EXTINF:-1,YU EST: PINK 1 EST 6HRS  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12809.ts
+#EXTINF:-1,YU : BALKANIKA  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/13036.ts
+#EXTINF:-1,YU: Arena Sport 2 SRB  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/13021.ts
+#EXTINF:-1,YU: BHT  IPTVultra.com [720x576]
+http://145.239.0.158:8080/live/mehmet/mehmet123/13008.ts
+#EXTINF:-1,YU : SPORT KLUB 3 HD  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/13033.ts
+#EXTINF:-1,YU: A TV  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/13031.ts
+#EXTINF:-1,YU: Bosna Music  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/13004.ts
+#EXTINF:-1,YU: Da Vinci Learning  IPTVultra.com [720x576]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12999.ts
+#EXTINF:-1,YU: A1 Balcan  IPTVultra.com [1920x1088]
+http://145.239.0.158:8080/live/mehmet/mehmet123/13030.ts
+#EXTINF:-1,YU: HAYAT PLUS  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12968.ts
+#EXTINF:-1,YU: KCN 2  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12953.ts
+#EXTINF:-1,YU: Bosna TV 1  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/13003.ts
+#EXTINF:-1,YU: ORLANDO KIDS  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12931.ts
+#EXTINF:-1,YU: Pink Comedy  IPTVultra.com [720x576]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12919.ts
+#EXTINF:-1,YU : SPORT KLUB 2 HD  IPTVultra.com [1280x720]
+http://145.239.0.158:8080/live/mehmet/mehmet123/13034.ts
+#EXTINF:-1,YU: Pink M  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12904.ts
+#EXTINF:-1,YU: Grand TV  IPTVultra.com [720x576]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12975.ts
+#EXTINF:-1,YU: Crime & Investigation  IPTVultra.com [720x576]
+http://145.239.0.158:8080/live/mehmet/mehmet123/13000.ts
+#EXTINF:-1,YU: AL JAZEERA BALKAN  IPTVultra.com [720x576]
+http://145.239.0.158:8080/live/mehmet/mehmet123/13028.ts
+#EXTINF:-1,YU: Arena Sport 4 SRB  IPTVultra.com [1280x720]
+http://145.239.0.158:8080/live/mehmet/mehmet123/13017.ts
+#EXTINF:-1,YU: Nickelodeon  IPTVultra.com [720x256]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12936.ts
+#EXTINF:-1,YU: RT Vojvodina 2  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12872.ts
+#EXTINF:-1,YU: Pink Reality  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12896.ts
+#EXTINF:-1,YU: RTL  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12868.ts
+#EXTINF:-1,YU: Arena Sport 3 SRB  IPTVultra.com [1280x720]
+http://145.239.0.158:8080/live/mehmet/mehmet123/13019.ts
+#EXTINF:-1,YU: RTS 3  IPTVultra.com [720x576]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12861.ts
+#EXTINF:-1,YU: KCN 3  IPTVultra.com [544x576]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12952.ts
+#EXTINF:-1,YU: NOVA WORLD  IPTVultra.com [720x416]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12933.ts
+#EXTINF:-1,YU: RTV Zenica  IPTVultra.com [1280x720]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12851.ts
+#EXTINF:-1,YU: SPORT TV 3 HD SLO  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12836.ts
+#EXTINF:-1,YU: SPORTKLUB 3 HD SLO  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12833.ts
+#EXTINF:-1,YU: Partizan HD  IPTVultra.com [1280x720]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12929.ts
+#EXTINF:-1,YU: RTCG 1  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12871.ts
+#EXTINF:-1,YU: TK Tuzla  IPTVultra.com [720x576]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12829.ts
+#EXTINF:-1,YU: Roma Tv  IPTVultra.com [1920x1088]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12875.ts
+#EXTINF:-1,YU: Sport Klub 2 HR  IPTVultra.com [1280x720]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12844.ts
+#EXTINF:-1,YU: Pink Plus TV  IPTVultra.com [720x576]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12898.ts
+#EXTINF:-1,YU: Pink Movies  IPTVultra.com [720x576]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12903.ts
+#EXTINF:-1,YU: Pink Plus TV  IPTVultra.com [720x576]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12899.ts
+#EXTINF:-1,YU: TV 3 SLO  IPTVultra.com [1920x1080]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12823.ts
+#EXTINF:-1,YU: Pop Brio  IPTVultra.com [720x576]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12880.ts
+#EXTINF:-1,YU: TV Glas Drine  IPTVultra.com [1280x720]
+http://145.239.0.158:8080/live/mehmet/mehmet123/12820.ts
 
-
-#EXTINF:0,http://s1.bossna-caffe.com:80/live?channelId=1278&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,SLO 1
-http://s1.bossna-caffe.com:80/live?channelId=1279&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,SLO 2
-http://s1.bossna-caffe.com:80/live?channelId=1280&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,SLO 3
-http://s1.bossna-caffe.com:80/live?channelId=1391&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,POP TV
-http://cms.bossna-caffe.com:80/live?channelId=1281&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Kanal A
-http://cms.bossna-caffe.com:80/live?channelId=1282&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,POP Kino
-http://cms.bossna-caffe.com:80/live?channelId=1283&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,POP Oto
-http://medias.bossna-caffe.com:80/live?channelId=1399&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,POP Brio
-http://medias.bossna-caffe.com:80/live?channelId=1397&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Sport 1
-http://s1.bossna-caffe.com:80/live?channelId=1284&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Sport 2
-http://s1.bossna-caffe.com:80/live?channelId=1285&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Sport Klub 1
-http://s1.bossna-caffe.com:80/live?channelId=1286&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Sport Klub 2
-http://s1.bossna-caffe.com:80/live?channelId=1287&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Sport Klub 3
-http://s1.bossna-caffe.com:80/live?channelId=1288&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Animal Planet
-http://s1.bossna-caffe.com:80/live?channelId=1392&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Discovery Channel
-http://s1.bossna-caffe.com:80/live?channelId=1393&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,FOX Crime
-http://s1.bossna-caffe.com:80/live?channelId=1394&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,FOX Life
-http://s1.bossna-caffe.com:80/live?channelId=1395&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,FOX
-http://s1.bossna-caffe.com:80/live?channelId=1396&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,FOX Movies
-http://s1.bossna-caffe.com:80/live?channelId=1398&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,HBO 1
-http://s1.bossna-caffe.com:80/live?channelId=1400&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,HBO 2
-http://s1.bossna-caffe.com:80/live?channelId=1401&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,HBO 3
-http://s1.bossna-caffe.com:80/live?channelId=1402&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,History Channel
-http://s1.bossna-caffe.com:80/live?channelId=1403&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,ID Xtra
-http://s1.bossna-caffe.com:80/live?channelId=1404&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Nat Geo Wild
-http://s1.bossna-caffe.com:80/live?channelId=1405&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Planet TV
-http://s1.bossna-caffe.com:80/live?channelId=1406&uid=32559&deviceMac=00:1A:79:04:05:07
-#EXTINF:0,Viasat Explore
-http://s1.bossna-caffe.com:80/live?channelId=1407&uid=32559&deviceMac=00:1A:79:04:05:07
 
 
 
